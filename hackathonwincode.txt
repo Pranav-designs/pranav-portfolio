@@ -1,0 +1,6 @@
+<div class="achievement-card glass-card">
+                    <div class="achievement-icon">🥇</div>
+                    <h3>HACKATHON WIN</h3>
+                    <p>Won [Position] at [Event Name]. Brief description of the project or solution you presented.</p>
+                    <p class="date">DATE: [Month Year]</p>
+                </div>
